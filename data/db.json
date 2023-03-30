@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we do it in a way that exists?\nIt is a long established line of text!",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "Why do we do it in a way that exists?\nIt is a long established line of text!",
+      "author": "Peach",
+      "id": 2
+    },
+    {
+      "title": "The is my test blog",
+      "body": "Blog bodysss",
+      "author": "Mario",
+      "id": 3
+    }
+  ]
+}
